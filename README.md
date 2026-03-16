@@ -20,7 +20,7 @@ Program implementira analizu grafa i računa sledeće karakteristike:
 
 Graf se tretira kao **neusmeren multigraf**, što znači da između dva čvora može postojati više paralelnih grana i da se one uzimaju u obzir u svim proračunima.
 
-## Technologies
+## Technologies used
 
 - Python  
 - NetworkX  
